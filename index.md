@@ -6,18 +6,9 @@ header:
   overlay_filter: 0.5  # Darken the overlay for readability
   caption: "Photo credit: Unsplash"
   actions:
-    label: "Projects"
-      url: "/projects/"
-      class: "btn btn--primary"
-    - label: "Blog"
-      url: "/blog/"
-      class: "btn btn--primary"
-    - label: "About Me"
-      url: "/about/"
-      class: "btn btn--primary"
     - label: "Download My Resume"
       url: "/assets/resume/Max_Keke_QA_Engineer.pdf"  # Replace with the actual path to your resume file
-      class: "btn btn--secondary"  # Style button
+      class: "btn btn--primary"  # Style button
 ---
 
 ## Welcome to My Portfolio

@@ -1,0 +1,19 @@
+.btn--primary {
+    background-color: #007acc;  /* Customize primary button color */
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+  
+  .btn--secondary {
+    background-color: #444;  /* Customize secondary button color */
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+
+/* Hide the main title on the homepage */
+.page-header__title {
+    display: none;
+  }

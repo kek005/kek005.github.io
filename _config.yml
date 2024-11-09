@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@latest
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 title: "Jesugnon KEKE Portfolio"
 description: "Showcasing innovative AI-driven appliances, automation projects, and blog insights."
@@ -29,3 +29,4 @@ navigation:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache

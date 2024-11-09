@@ -5,3 +5,7 @@
 - title: "Automated LinkedIn Job Application Script"
   url: "https://github.com/kek005/linkedin-job-script"
   description: "A Python script that automates job applications on LinkedIn using Selenium."
+
+- title: "Sample Project"
+  url: "https://example.com"
+  description: "A sample project for testing purposes."

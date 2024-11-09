@@ -12,8 +12,3 @@
     text-decoration: none;
     padding: 10px 15px;
   }
-
-/* Hide the main title on the homepage */
-.page-header__title {
-    display: none;
-  }

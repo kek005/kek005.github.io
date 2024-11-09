@@ -3,23 +3,19 @@ remote_theme: mmistakes/minimal-mistakes@latest
 title: "Jesugnon KEKE Portfolio"
 description: "Showcasing innovative AI-driven appliances, automation projects, and blog insights."
 
-baseurl: ""  # Leave this blank for user.github.io
-url: "https://kek005.github.io"  # Your GitHub Pages URL
+baseurl: ""
+url: "https://kek005.github.io"
 
 author:
   name: "Jesugnon KEKE"
-  email: "your-email@example.com"
-  # Update with your actual email
-  avatar: "/assets/images/your-photo.jpg"  # Optional: Add your photo
+  email: "ancetreseul@example.com"
+  # avatar: "/assets/images/your-photo.jpg"
   bio: "QA Engineer and AI Enthusiast passionate about automation and innovative technologies."
 
-# Social Media Usernames
 social:
-  github: kek005
-  linkedin: https://www.linkedin.com/in/max-keke-605811229/
-  # Add other platforms like Twitter, Medium, etc.
+  github: "kek005"
+  linkedin: "https://www.linkedin.com/in/max-keke-605811229/"
 
-# Navigation Links
 navigation:
   - title: "Home"
     url: "/"
@@ -30,7 +26,6 @@ navigation:
   - title: "About"
     url: "/about/"
 
-# Enable or disable features
 plugins:
   - jekyll-feed
   - jekyll-sitemap

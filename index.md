@@ -1,14 +1,23 @@
 ---
 layout: splash
-title: "Jesugnon KEKE Portfolio"
+title: "Max KEKE Portfolio"
 header:
   overlay_image: /assets/images/quality_engineer_image.webp # Replace with the path to your banner image
   overlay_filter: 0.5  # Darken the overlay for readability
   caption: "Photo credit: Unsplash"
   actions:
+    label: "Projects"
+      url: "/projects/"
+      class: "btn btn--primary"
+    - label: "Blog"
+      url: "/blog/"
+      class: "btn btn--primary"
+    - label: "About Me"
+      url: "/about/"
+      class: "btn btn--primary"
     - label: "Download My Resume"
       url: "/assets/resume/Max_Keke_QA_Engineer.pdf"  # Replace with the actual path to your resume file
-      class: "btn btn--primary"  # Style button
+      class: "btn btn--secondary"  # Style button
 ---
 
 ## Welcome to My Portfolio

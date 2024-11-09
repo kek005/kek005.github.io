@@ -9,7 +9,7 @@ url: "https://kek005.github.io"
 author:
   name: "Jesugnon KEKE"
   email: "ancetreseul@example.com"
-  # avatar: "/assets/images/your-photo.jpg"
+  avatar: "/assets/images/max_qa_engineer.JPG"
   bio: "QA Engineer and AI Enthusiast passionate about automation and innovative technologies."
 
 social:
@@ -30,3 +30,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
+
+custom_css:
+  - /assets/css/custom.css

@@ -1,3 +1,36 @@
-theme: jekyll-theme-minimal
-title: AI Fusion Labs Portfolio
-description: Showcasing AI Fusion Labs' innovative AI-driven appliances and automation projects.
+remote_theme: mmistakes/minimal-mistakes@latest
+
+title: "Jesugnon KEKE Portfolio"
+description: "Showcasing innovative AI-driven appliances, automation projects, and blog insights."
+
+baseurl: ""  # Leave this blank for user.github.io
+url: "https://kek005.github.io"  # Your GitHub Pages URL
+
+author:
+  name: "Jesugnon KEKE"
+  email: "your-email@example.com"
+  # Update with your actual email
+  avatar: "/assets/images/your-photo.jpg"  # Optional: Add your photo
+  bio: "QA Engineer and AI Enthusiast passionate about automation and innovative technologies."
+
+# Social Media Usernames
+social:
+  github: kek005
+  linkedin: your-linkedin-username
+  # Add other platforms like Twitter, Medium, etc.
+
+# Navigation Links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+
+# Enable or disable features
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

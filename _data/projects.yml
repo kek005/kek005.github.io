@@ -1,23 +1,29 @@
 - title: "AI Fusion Labs Website"
   url: "https://github.com/kek005/ai_fusion_labs_webapp"
   description: "A website hosted on Azure showcasing AI-driven appliances."
+  image: "/assets/images/ai_fusion_labs.webp"
 
 - title: "Automated Posting on LinkedIn"
   url: "https://github.com/kek005/linkedInPost"
   description: "A Python script leveraging AI to automate LinkedIn content posting, using Selenium for seamless interaction and OpenAI for engaging post generation."
+  image: "/assets/images/ai_fusion_labs.webp"
 
 - title: "My Portfolio Website"
   url: "https://github.com/kek005/kek005.github.io.git"
   description: "A fully responsive portfolio website featuring projects, a blog, and contact information, hosted on GitHub Pages to showcase my expertise and accomplishments."
+  image: "/assets/images/ai_fusion_labs.webp"
 
 - title: "Indeed Job Application Automation"
   url: "https://github.com/kek005/indeed.git"
   description: "A Python-based automation tool for streamlining Indeed job applications with dynamic form filling and AI-generated answers, designed to save time and effort."
+  image: "/assets/images/ai_fusion_labs.webp"
 
 - title: "Dice Job Application Automation"
   url: "https://github.com/kek005/dice.git"
   description: "A Python-based automation tool for applying to jobs on Dice, featuring shadow DOM handling, form completion, and OpenAI GPT integration."
+  image: "/assets/images/ai_fusion_labs.webp"
 
 - title: "E-commerce Automated Test Scripts"
   url: "https://github.com/kek005/e-commerce.git"
   description: "Reusable automated test scripts for end-to-end testing of e-commerce websites, covering essential workflows like add-to-cart and checkout."
+  image: "/assets/images/ai_fusion_labs.webp"

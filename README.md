@@ -23,17 +23,13 @@ To set up the website locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/yourportfolio.git
+git clone [https://github.com/yourusername/yourportfolio.git](https://github.com/kek005/kek005.github.io.git)
 cd yourportfolio
+
 Install Jekyll (if not installed):
-
-bash
-Copy code
 gem install jekyll bundler
-Build the site and serve locally:
 
-bash
-Copy code
+Build the site and serve locally:
 bundle exec jekyll serve
 Open http://localhost:4000 to view the site locally.
 
@@ -42,4 +38,4 @@ Project Filtering: Adding categories or tags for easier project browsing.
 Interactive Elements: Implementing JavaScript for animations and enhanced interactivity.
 Enhanced Blog: Integrating a commenting system for engagement.
 Contact
-If you’d like to connect, please reach out through LinkedIn or email.
+If you’d like to connect, please reach out through LinkedIn or email. ancetreseul@gmail.com

@@ -13,3 +13,7 @@
 - title: "Indeed Job Application Automation"
   url: "https://github.com/kek005/indeed.git"
   description: "A Python-based automation tool for streamlining Indeed job applications with dynamic form filling and AI-generated answers, designed to save time and effort."
+
+- title: "Dice Job Application Automation"
+  url: "https://github.com/kek005/dice.git"
+  description: "A Python-based automation tool for applying to jobs on Dice, featuring shadow DOM handling, form completion, and OpenAI GPT integration."

@@ -17,3 +17,7 @@
 - title: "Dice Job Application Automation"
   url: "https://github.com/kek005/dice.git"
   description: "A Python-based automation tool for applying to jobs on Dice, featuring shadow DOM handling, form completion, and OpenAI GPT integration."
+
+- title: "E-commerce Automated Test Scripts"
+  url: "https://github.com/kek005/e-commerce.git"
+  description: "Reusable automated test scripts for end-to-end testing of e-commerce websites, covering essential workflows like add-to-cart and checkout."

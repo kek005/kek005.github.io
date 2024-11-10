@@ -4,8 +4,12 @@
 
 - title: "Automated Posting on LinkedIn"
   url: "https://github.com/kek005/linkedInPost"
-  description: "A Python script that automates leverage AI to Post content on LinkedIn on your behalf using Selenium."
+  description: "A Python script leveraging AI to automate LinkedIn content posting, using Selenium for seamless interaction and OpenAI for engaging post generation."
 
 - title: "My Portfolio Website"
   url: "https://github.com/kek005/kek005.github.io.git"
-  description: "A sample project for testing purposes."
+  description: "A fully responsive portfolio website featuring projects, a blog, and contact information, hosted on GitHub Pages to showcase my expertise and accomplishments."
+
+- title: "Indeed Job Application Automation"
+  url: "https://github.com/kek005/indeed.git"
+  description: "A Python-based automation tool for streamlining Indeed job applications with dynamic form filling and AI-generated answers, designed to save time and effort."

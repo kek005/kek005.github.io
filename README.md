@@ -22,8 +22,8 @@ Getting Started
 To set up the website locally:
 
 Clone the repository:
+git clone https://github.com/kek005/kek005.github.io.git
 
-git clone [https://github.com/yourusername/yourportfolio.git](https://github.com/kek005/kek005.github.io.git)
 cd yourportfolio
 
 Install Jekyll (if not installed):

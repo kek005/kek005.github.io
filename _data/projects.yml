@@ -2,10 +2,10 @@
   url: "https://github.com/kek005/ai_fusion_labs_webapp"
   description: "A website hosted on Azure showcasing AI-driven appliances."
 
-- title: "Automated LinkedIn Job Application Script"
-  url: "https://github.com/kek005/linkedin-job-script"
-  description: "A Python script that automates job applications on LinkedIn using Selenium."
+- title: "Automated Posting on LinkedIn"
+  url: "https://github.com/kek005/linkedInPost"
+  description: "A Python script that automates leverage AI to Post content on LinkedIn on your behalf using Selenium."
 
-- title: "Sample Project"
-  url: "https://example.com"
+- title: "My Portfolio Website"
+  url: "https://github.com/kek005/kek005.github.io.git"
   description: "A sample project for testing purposes."

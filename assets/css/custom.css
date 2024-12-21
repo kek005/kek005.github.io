@@ -60,7 +60,7 @@
 .project-title {
     font-size: 1.9em;
     font-weight: bold;
-    color: #000;
+    color: #f70303;
     margin: 10px 0;
     text-decoration: none;
 }
@@ -77,7 +77,7 @@
 /* Description styling */
 .project-description {
     font-size: 1.5em;
-    color: #000;
+    color: #ed0505;
     margin-top: 5px;
     line-height: 1.6; /* Improve spacing for better readability */
 }

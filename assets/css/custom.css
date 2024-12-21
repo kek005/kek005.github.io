@@ -58,7 +58,7 @@
 
 /* Title styling with larger and bold text */
 .project-title {
-    font-size: 1.5em;
+    font-size: 1.9em;
     font-weight: bold;
     color: #000;
     margin: 10px 0;
@@ -76,7 +76,7 @@
 
 /* Description styling */
 .project-description {
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: #333;
     margin-top: 5px;
     line-height: 1.6; /* Improve spacing for better readability */

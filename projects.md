@@ -4,17 +4,10 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<h1>{{ page.title }}</h1>
-<div class="project-container">
-    {% for project in site.data.projects %}
-    <div class="project-card">
-        <a href="{{ project.url }}" target="_blank">
-            <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image">
-            <div class="project-content">
-                <h2 class="project-title">{{ project.title }}</h2>
-                <p class="project-description">{{ project.description }}</p>
-            </div>
-        </a>
-    </div>
-    {% endfor %}
-</div>
+# Projects
+
+Here are some of the projects I've worked on:
+
+- **Project 1:** Description of the project and its purpose. [Learn More](#)
+- **Project 2:** Description of the project and its purpose. [Learn More](#)
+- **Project 3:** Description of the project and its purpose. [Learn More](#)

@@ -7,7 +7,7 @@ permalink: /projects/
 <h1>{{ page.title }}</h1>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <a href="/" class="btn btn--primary">Back to Home</a>
+  <a href="/" class="btn btn--primary">Home</a>
 </div>
 
 <div class="project-container">

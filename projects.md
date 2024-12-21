@@ -7,7 +7,7 @@ permalink: /projects/
 <h1>{{ page.title }}</h1>
 <div class="project-container">
     {% for project in site.data.projects %}
-    <div class="project-card">
+    <div class="project-card" style="background-image: url('{{ project.image }}');">
         <a href="{{ project.url }}" target="_blank">
             <div class="project-content">
                 <h2 class="project-title">{{ project.title }}</h2>

@@ -25,7 +25,7 @@ Showcasing innovative AI-driven appliances, automation projects, and blog insigh
 
 ## About Me
 
-<img src="/assets/images/your-photo.jpg" alt="Max KEKE" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
+<img src="/assets/images/max_qa_engineer.JPG" alt="Max KEKE" style="width: 150px; border-radius: 50%; margin-bottom: 15px;">
 
 Hi! I'm Max KEKE, a QA Engineer and AI Enthusiast passionate about automation and innovative technologies. I specialize in creating efficient systems and solutions to solve real-world problems.
 

@@ -1,7 +1,7 @@
 - title: "AI Fusion Labs Website"
   url: "https://github.com/kek005/ai_fusion_labs_webapp"
   description: "A website hosted on Azure showcasing AI-driven appliances."
-  image: "/assets/images/ai_fusion_labs.webp"
+  image: "/assets/images/ai_fusion_labs2.webp"
 
 - title: "Automated Posting on LinkedIn"
   url: "https://github.com/kek005/linkedInPost"
@@ -21,7 +21,7 @@
 - title: "Dice Job Application Automation"
   url: "https://github.com/kek005/dice.git"
   description: "A Python-based automation tool for applying to jobs on Dice, featuring shadow DOM handling, form completion, and OpenAI GPT integration."
-  image: "/assets/images/ai_fusion_labs4.webp"
+  image: "/assets/images/ai_fusion_labs1.webp"
 
 - title: "E-commerce Automated Test Scripts"
   url: "https://github.com/kek005/e-commerce.git"
